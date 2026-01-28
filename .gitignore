@@ -212,3 +212,5 @@ __marimo__/
 
 # Specifically ignore token file
 token.txt
+
+.DS_Store
